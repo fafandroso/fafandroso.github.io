@@ -1,0 +1,27 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+/* Fira Code */
+@font-face {
+    font-family: 'Fira Code Bold';
+    src: url('assets/fonts/firacode/FiraCode-Bold.woff') format('woff')
+}
+.fira-code-bold { font-family: 'Fira Code Bold'; }
+
+@font-face {
+    font-family: 'Fira Code Light';
+    src: url('assets/fonts/firacode/FiraCode-Light.woff') format('woff') 
+}
+.fira-code-light { font-family: 'Fira Code Light'; }
+
+@font-face {
+    font-family: 'Fira Code Regular';
+    src: url('assets/fonts/firacode/FiraCode-Regular.woff') format('woff') 
+}
+.fira-code-regular { font-family: 'Fira Code Regular'; }
+
+@font-face {
+    font-family: 'Fira Code Medium';
+    src: url('assets/fonts/firacode/FiraCode-Medium.woff') format('woff') 
+}
+.fira-code-medium { font-family: 'Fira Code Medium'; }
+

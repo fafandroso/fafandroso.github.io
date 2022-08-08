@@ -6,7 +6,7 @@ import { TableroIngresosComponent } from './sections/tablero-ingresos/tablero-in
 const routes: Routes = [
   { path: '', component: HomeComponent },
   /* Secciones */
-  { path: 'tablero-ingresos', component: TableroIngresosComponent },
+  { path: 's/tablero-ingresos', component: TableroIngresosComponent },
 ];
 
 @NgModule({
